@@ -1,6 +1,6 @@
 <?php return array(
     'root' => array(
-        'name' => 'apolt01-007/compouser',
+        'name' => 'apolt02-006/compouser',
         'pretty_version' => '1.0.0+no-version-set',
         'version' => '1.0.0.0',
         'reference' => NULL,
@@ -10,7 +10,7 @@
         'dev' => true,
     ),
     'versions' => array(
-        'apolt01-007/compouser' => array(
+        'apolt02-006/compouser' => array(
             'pretty_version' => '1.0.0+no-version-set',
             'version' => '1.0.0.0',
             'reference' => NULL,
