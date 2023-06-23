@@ -1,0 +1,22 @@
+{
+    "name": "apolt01-007/compouser",
+    "description": "..",
+    "license": "LTS",
+    "autoload": {
+        "psr-4": {
+            "App\\": [
+                "./scripts",
+                "./scripts/db"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "lvillamizarmurillo",
+            "email": "lvillamizarmurillo@gmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6"
+    }
+}
